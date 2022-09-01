@@ -1,2 +1,2 @@
-#!/bin/dash
-ls -al - -- /boot
+#!/bin/bash
+ls -al. .. /boot
