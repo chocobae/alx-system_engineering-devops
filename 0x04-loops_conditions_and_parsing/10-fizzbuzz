@@ -3,7 +3,6 @@
 # FizzBuzz when the number is a multiple of 3 and 5
 # Fizz when the number is multiple of 3
 # Buzz when the number is a multiple of 5
-
 for num in {1..100}
 do
  if (( num % 3 == 0 && num % 5 == 0 ))
