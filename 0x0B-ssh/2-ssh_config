@@ -1,4 +1,4 @@
 # ssh config file
 Host *
       PasswordAuthentication no
-      IdentifyFile ~/.ssh/ubuntu@100.25.36.38
+    # IdentifyFile ~/.ssh/school
